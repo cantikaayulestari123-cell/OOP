@@ -5,5 +5,6 @@ class Mahasiswa{ //blueprint atau cetakan
 public :
     int nim;
     string nama;
+    float nilai;
 
 }
