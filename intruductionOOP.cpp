@@ -3,6 +3,7 @@ using namespace std;
 
 class Mahasiswa{ //blueprint atau cetakan
 public :
-    int nim:
+    int nim;
+    string nama;
 
 }
